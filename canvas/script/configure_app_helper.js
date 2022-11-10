@@ -1,12 +1,5 @@
 const _querySearchKey = "querySearch";
 
-/// for interop
-function getColor() {
-    let search = localStorage.getItem(_querySearchKey) ?? document.location.search;
-
-    return getQueryParam(search, 'color');
-}
-
 function changeFavIcon(src) {
     var link = document.createElement('link'),
         oldLink = document.getElementById('dynamic-favicon');
