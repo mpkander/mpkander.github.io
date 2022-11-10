@@ -2,7 +2,7 @@ body {
   inset: 0; overflow: hidden;
   margin: 0; padding: 0;
   position: fixed;
-  background: #FFED4A;
+  background: #FFFFFF;
 }
 
 #icon {
@@ -78,7 +78,7 @@ body {
 #bottom {
   align-items: center;
   display: flex;
-  height: 20%;
+  height: 100%;
   justify-content: center;
   width: 100%;
 }
