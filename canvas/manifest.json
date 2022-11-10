@@ -1,7 +1,6 @@
 {
     "name": "Surf Bank",
     "short_name": "Surf Bank",
-    "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
